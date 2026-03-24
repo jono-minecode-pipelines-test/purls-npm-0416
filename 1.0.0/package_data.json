@@ -1,42 +1,50 @@
 {
-    "name": "003-bingpic",
+    "name": "007-library-test",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "webpack.config.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "keywords": [],
     "author": "",
     "license": "ISC",
-    "dependencies": {
-        "request": "^2.81.0"
+    "devDependencies": {
+        "lodash": "^4.17.21",
+        "webpack": "^5.70.0",
+        "webpack-cli": "^4.9.2"
     },
-    "_id": "003-bingpic@1.0.0",
-    "_npmVersion": "5.3.0",
-    "_nodeVersion": "8.4.0",
-    "_npmUser": {
-        "name": "fairyfan",
-        "email": "871424796@qq.com"
-    },
+    "_id": "007-library-test@1.0.0",
+    "_nodeVersion": "12.18.2",
+    "_npmVersion": "6.14.5",
     "dist": {
-        "integrity": "sha512-fzKJyvExB9VKHIcg+ZEk1Uct1axrawOpnn6/gtSEwKF2BtWT+m3DIklndDcD6REOe4PsIXx4dx4qCGa8NIKcBw==",
-        "shasum": "f3db52b2396910d7face2914e32744343f5cfd24",
-        "tarball": "https://registry.npmjs.org/003-bingpic/-/003-bingpic-1.0.0.tgz",
+        "integrity": "sha512-WkPJkKXowiKgBK2AZAsZMYapqdkeqsFSil7fmbjlwQgJ32QB/Pk9DJbh7Q4hQl55DYFCNRRKQYCtCGd3puLsPw==",
+        "shasum": "003c07d2419cbbe4842eb6d721bc126e3bb5251f",
+        "tarball": "https://registry.npmjs.org/007-library-test/-/007-library-test-1.0.0.tgz",
+        "fileCount": 9,
+        "unpackedSize": 3508,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQWHoACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpMeQ//UnQZZiL0GoeQ4uA1k4O7pfO31q+d9pwYGrwCrD1uikr7nf1m\r\njpE5lvsXAUZjL/Qf+aINxQj+EM3dMlbdEBERL/FtVcf4ibMkeV1PUpSpBdkV\r\nGWtwK0z/xJSMcnKsAKKAka32H/v2xRqROMWZkqiIRfvkzodqBvZdEYdPlJc/\r\nyJdwwK6R/GFlReLbWvIm6u1WZFkncvY2ELOgL/ZAshR8CRdLLUjUtWdH8a9z\r\n8VRQqj4u0e3WsWw2NHX/HQ8GdV6uPT7fGm5oEOXmzVo4ueXvSEi9adNaPhr5\r\n9D5GSXtOhPhU7A50nJ+vPk3X8DtxUsHIIxgoWiirmjKmjKieFwvsMYckES4t\r\nCJ01BCTJQ/COb4Df0Iz+oUc5P8TyG71gpavKuJKEYQjkMx8QF4oAyKm2DSnJ\r\nSFRy1wifN8sRX/q0srPsxEdIXpMPa/IuNSIcqzcPLEE+gSId1zt1QZSGdIE+\r\nfT26UiqxKTjR4LHQ1bCgjNUf2xIQ7/Ur3/4fR1A0cSg7WFJyd4TOy3UpXAj3\r\nKjL4+4jUkHwXLSPrzpgQksyQPZ8pJQUdV0ySf6Bb4fIIWhoTF2/bjdcCX3QM\r\nkJNWAYAYwHXEavr9p6jyj5mSGOHdcullP0LHdULyQo2DwkyLrnCaTrDcBVfa\r\nX3Cf4U8UXhrJ9CEGtfIAfUOrrY+duC9vh58=\r\n=/CtG\r\n-----END PGP SIGNATURE-----\r\n",
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEYCIQDWtZ/59oMn2sADUNMF0Gv8q1FCnHBFRjQFj61mv85JBwIhAM8qZbwgv2568MJmlFgwVumfvGaHEiCmVzTUJYG1C06q"
+                "sig": "MEUCIELO9Nilgskiia4erozpDvfP3bIuboE9CPVl/TAo8PKfAiEAj+gIW6kXae2eCaXjW9RxpJUKDFYXnwFdCbyfk3HGc1o="
             }
         ]
     },
+    "_npmUser": {
+        "name": "hzw_web",
+        "email": "17607134437@163.com"
+    },
+    "directories": {},
     "maintainers": [
         {
-            "name": "fairyfan",
-            "email": "871424796@qq.com"
+            "name": "hzw_web",
+            "email": "17607134437@163.com"
         }
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/003-bingpic-1.0.0.tgz_1505128797002_0.11442146846093237"
-    }
+        "tmp": "tmp/007-library-test_1.0.0_1648452071872_0.937758076038123"
+    },
+    "_hasShrinkwrap": false
 }

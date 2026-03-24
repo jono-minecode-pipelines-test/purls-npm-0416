@@ -1,0 +1,50 @@
+{
+    "name": "007-library-test",
+    "version": "1.0.5",
+    "description": "",
+    "main": "dist/webpack-number.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "lodash": "^4.17.21",
+        "webpack": "^5.70.0",
+        "webpack-cli": "^4.9.2"
+    },
+    "_id": "007-library-test@1.0.5",
+    "_nodeVersion": "12.18.2",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-Zj28IhJ04Nuv32COruzJRkdnoBWbYzqeMO/3kDLUgxN3fi52osBJYl/Qyug0Y8vH/jSfHeguvh3lBIM4O6VPhQ==",
+        "shasum": "54e803f2c96c6516f77ecdd2e5c01ca86be7d906",
+        "tarball": "https://registry.npmjs.org/007-library-test/-/007-library-test-1.0.5.tgz",
+        "fileCount": 10,
+        "unpackedSize": 74489,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQXKhACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoATw//fqlg8MnG12XVPShpsThLln2HHHftj4ms9y9EEXsEEMvig2ZS\r\n38wbmHkyLVhiTjHWTOtDm5r8R3ZpltB94GVMeJOPTjEnrJUJcjddP21MO2wf\r\n76jYhSL6tTsOzkTqUY2/PHN8ElmZ9s5CPSdANK+ZVVo6PDta26R6FeIeucrS\r\nFlAqVkqsw7mG2ok4IhTRAeKZX2Jur2/JYj16nbDmKHXDjTB7vQx/bKkta9l3\r\nIgzpjgqPXSCK6GeLfx5jyNCGAQGHvMllwesa5yPk5HBljinzVxUQWnBqmzWp\r\n3+qGFSDGcCSE5gnyO/vov2r+cXUfSf+eZHWuTJ8jlJjmDqfIZfpCgBWLuPW1\r\nxLEc0GExoWPi5yf2dOHtUFQ6/l6p3GGVY4oDU8+HAtxesvlcOa2BSHNlwnpS\r\nSS3EhnmUcCvGjQ40ZpsBrpDMpqHVoHQ5SseBQrzfCPOJFTWy4jqlxlgFWvl+\r\npiyMNyVa9yxcdePWdWk5aKbZML0vPBE410iLR0IYyaGVys0PZOA5wioJ4nG5\r\nBdxcI4zNFFpKzvYJkc/J+M1hFMoxiPQrH/x6DOMNUjbz2O80U9LX5WkOBoNT\r\ns6W/KN0g49P+rspDPU80L6wx/kfCDklvwGzJfyViBPSqVCRLbcUKyoFZMIiC\r\nxvxpRLxozWhMd3e3g8KgZa9NgvlKzeoBRjk=\r\n=zeSm\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCQem2i69s6pbIyMURpp7KXPLhnv0A/jSBGn12OdYcKHwIgQvCdHMNDaLM2YoQjtHfSCJv1Uypf6ZfLEBkYu0+iLFo="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "hzw_web",
+        "email": "17607134437@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hzw_web",
+            "email": "17607134437@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/007-library-test_1.0.5_1648456353195_0.2590421689561171"
+    },
+    "_hasShrinkwrap": false
+}
