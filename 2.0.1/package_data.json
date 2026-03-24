@@ -1,0 +1,57 @@
+{
+    "name": "0038cli-number-guessing-game",
+    "version": "2.0.1",
+    "description": "This is CLI based number guessing game",
+    "main": "index.js",
+    "type": "module",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bin": {
+        "0038cli-number-guessing-game": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.17"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "0038cli-number-guessing-game@2.0.1",
+    "gitHead": "837d8233a792ee8dab8498afd7e03d0af0fa36d9",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-AbKb0qpi0RmZcy6EbgpkbWpgKO7XW0LJGqPGh1gNYMguJiu5GEotyHLGoS1RUtVM0ZA5W0P5rgsIfsIYYkDanA==",
+        "shasum": "08522f804450ab9c5eef38f3a0295f057d89eebe",
+        "tarball": "https://registry.npmjs.org/0038cli-number-guessing-game/-/0038cli-number-guessing-game-2.0.1.tgz",
+        "fileCount": 5,
+        "unpackedSize": 14140,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDJPYTIJ5PsNoo46sSALtUb6ve/pUZaDGmbkTmSK0A2QgIgYJcpmXcFDqOdHaPKO0fYYihRlrWL9SsGtpb2xQs+rM8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "aitech03",
+        "email": "afnanzagq@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "aitech03",
+            "email": "afnanzagq@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0038cli-number-guessing-game_2.0.1_1713286000051_0.7488310470014727"
+    },
+    "_hasShrinkwrap": false
+}

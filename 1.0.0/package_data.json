@@ -1,0 +1,42 @@
+{
+    "name": "003-bingpic",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "request": "^2.81.0"
+    },
+    "_id": "003-bingpic@1.0.0",
+    "_npmVersion": "5.3.0",
+    "_nodeVersion": "8.4.0",
+    "_npmUser": {
+        "name": "fairyfan",
+        "email": "871424796@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-fzKJyvExB9VKHIcg+ZEk1Uct1axrawOpnn6/gtSEwKF2BtWT+m3DIklndDcD6REOe4PsIXx4dx4qCGa8NIKcBw==",
+        "shasum": "f3db52b2396910d7face2914e32744343f5cfd24",
+        "tarball": "https://registry.npmjs.org/003-bingpic/-/003-bingpic-1.0.0.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDWtZ/59oMn2sADUNMF0Gv8q1FCnHBFRjQFj61mv85JBwIhAM8qZbwgv2568MJmlFgwVumfvGaHEiCmVzTUJYG1C06q"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "fairyfan",
+            "email": "871424796@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/003-bingpic-1.0.0.tgz_1505128797002_0.11442146846093237"
+    }
+}
